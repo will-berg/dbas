@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+
+.formdiv {
+    margin: 0 auto;
+    width: 308px;
+}
+
+.container {
+    margin: auto;
+    align-content: center;
+}
+
+.table-fix {
+    box-shadow: 0px 0px 5px 1px;
+    display: table;
+}
+
+.page-header {
+    font-size: 20px;
+    width: 100%;
+}

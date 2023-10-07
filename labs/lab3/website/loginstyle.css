@@ -1,0 +1,18 @@
+body {
+    background: lightskyblue;
+}
+
+#frm {
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: whitesmoke;
+    padding: 50px;
+}
+
+#btn {
+    color: #fff;
+    background: lightgreen;
+    padding: 5px;
+}
